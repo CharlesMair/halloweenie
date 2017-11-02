@@ -1,2 +1,2 @@
 # halloweenie
-fun game
+group project = fun game
