@@ -522,12 +522,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64ed2bb01120aba44986cc7120c4fdfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedH: 0.1
+  speedH: 0.3
   rigid: {fileID: 773204735}
   jumpHeight: 250
-  projectileVelo: 9
-  projectilePrefab: {fileID: 1101789789764256, guid: f4d41107a617ab845a0c69220c8411f3,
-    type: 2}
 --- !u!50 &773204735
 Rigidbody2D:
   serializedVersion: 4
